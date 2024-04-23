@@ -1,5 +1,6 @@
 # 💫 About Me:
-TU Darmstadt Cand. M.Sc. Business Computer Sciences ~ Figuring out NLP
+Founder at SecondPulse.co -> Text-To-Action Copilots for European SME
+TU Darmstadt M.Sc. Business Computer Science
 
 
 # 💻 Tech Stack:
