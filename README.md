@@ -1,5 +1,6 @@
 # 💫 About Me:
 Founder at SecondPulse.co -> Text-To-Action Copilots for European SME
+
 TU Darmstadt M.Sc. Business Computer Science
 
 
